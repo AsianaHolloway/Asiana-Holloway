@@ -60,4 +60,4 @@ Project Inclusion:
 This project includes the comprehensive research report, presentation materials, and READMEs detailing the research question, methodology, findings, and personal contributions. Through this project, I aim to showcase my expertise in health informatics and highlight the significance of data-driven approaches in addressing health disparities and promoting equitable healthcare outcomes.
 
 Together, these two major projects exemplify my commitment to leveraging technology and data-driven insights to drive positive change in public health and healthcare delivery. I invite you to explore further and discover the innovative solutions and insights presented in this portfolio.
-![image](https://github.com/AsianaHolloway/Asiana-Holloway/assets/167465369/ac600a1b-bb25-47d1-9d0a-750e2c3c47ac)
+
